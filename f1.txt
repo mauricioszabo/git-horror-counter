@@ -1,5 +1,9 @@
 Line 1
 
+-- New Line 1
+
 Line 2
+
+-- New Line 2
 
 Line 3
